@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>Closing punctuation in title not required</reason>
+		</ignore>
+	</file>
+	<file path="chapter-13.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker spans multiple lines</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
