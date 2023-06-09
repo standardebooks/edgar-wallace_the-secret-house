@@ -31,15 +31,18 @@
 		<dc:subject id="subject-1">Detective and mystery stories, English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037269</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">During the course of a murder investigation, the Assistant Commisioner of police uncovers a blackmail scheme involving a seedy newspaper and members of British high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;T. B. Smith, Assistant Commisioner of police suspects that the murder of two foreigners is connected to the operation of Montague Fallock, a notorious blackmailer of prominent British citizens.&lt;/p&gt;
+			&lt;p&gt;Suspicion points to a wealth businessman, who subsequently disappears, leaving a sucide note and his fortune to his ward, Doris.&lt;/p&gt;
+			&lt;p&gt;Smith suspects that all is not as it seems. Who is the blackmailer and who is the victim? The investigation leads to a small country village and a secret house built by a wealthy hermit who is not what he seems.&lt;/p&gt;
+			&lt;p&gt;The mystery deepens when Doris receives a note from her dead guardian urging her to marry a family friend without delay.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26176</dc:source>
 		<dc:source>https://archive.org/details/secrethouse00walliala</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_House</meta>
@@ -48,13 +51,13 @@
 		<meta property="file-as" refines="#author">Wallace, Edgar</meta>
 		<meta property="se:name.person.full-name" refines="#author">Richard Horatio Edgar Wallace</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
+		<dc:contributor id="artist">John Constable</dc:contributor>
+		<meta property="file-as" refines="#artist">Constable, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Constable</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nb2008005215</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">D Alexander</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Alexander, D</meta>
@@ -68,7 +71,6 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Norman C. Walz</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Walz, Norman C.</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
