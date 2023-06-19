@@ -34,10 +34,9 @@
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">During the course of a murder investigation, the Assistant Commisioner of Police uncovers a blackmail scheme involving a seedy newspaper and members of British high society.</dc:description>
-		<dc:description id="description">During the course of a murder investigation, the Assistant Commisioner of police uncovers a blackmail scheme involving a seedy newspaper and members of British high society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;T. B. Smith, Assistant Commisioner of police suspects that the murder of two foreigners is connected to the operation of Montague Fallock, a notorious blackmailer of prominent British citizens.&lt;/p&gt;
-			&lt;p&gt;Suspicion points to a wealthy businessman, who subsequently disappears, leaving a sucide note and a vast fortune to his ward, Doris.&lt;/p&gt;
+			&lt;p&gt;T. B. Smith, Assistant Commissioner of Police suspects that the murder of two foreigners is connected to the operation of Montague Fallock, a notorious blackmailer of prominent British citizens.&lt;/p&gt;
+			&lt;p&gt;Suspicion points to a wealthy businessman, who subsequently disappears, leaving a suicide note and a vast fortune to his ward, Doris.&lt;/p&gt;
 			&lt;p&gt;The evidence confuses even T. B. Smith. Who is the blackmailer and who is the victim? The investigation leads to a small country village and a secret house built by a wealthy hermit who is not what he seems.&lt;/p&gt;
 			&lt;p&gt;The mystery deepens when Doris receives a note from her dead guardian urging her to marry a family friend without delay.&lt;/p&gt;
 			&lt;p&gt;The solution lies within the secret house.&lt;/p&gt;
