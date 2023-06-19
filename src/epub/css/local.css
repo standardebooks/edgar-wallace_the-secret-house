@@ -7,11 +7,8 @@
 	text-align: center;
 }
 
-#chapter-3 blockquote:first-of-type{
-	text-align: center;
-}
-
-#chapter-15 blockquote:first-of-type{
+#chapter-3 blockquote,
+#chapter-15 blockquote{
 	text-align: center;
 }
 
