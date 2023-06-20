@@ -6,10 +6,4 @@
 			<reason>Inscription does not have closing punctuation in scan</reason>
 		</ignore>
 	</file>
-	<file path="chapter-13.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Dialog from the same speaker spans multiple lines</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
