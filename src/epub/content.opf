@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26176</dc:source>
 		<dc:source>https://archive.org/details/secrethouse00walliala</dc:source>
-		<meta property="se:word-count">59275</meta>
+		<meta property="se:word-count">58983</meta>
 		<meta property="se:reading-ease.flesch">72.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_House</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-secret-house</meta>
